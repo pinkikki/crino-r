@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 3853761811
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f48d31c6e9885ae70e80089678a6811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a87cfcfc6c39d4d8f58a687dc609ab38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 921cb7c406bac8b4eb68822510075118, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8b121c6d1b528148add266e61d86448, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ffd06618e4bad664cbd68eda0cdd1be7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0fd300b181745845b7a3600e771e285, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/fieldmenu/battlemenu/TsuyoshiBase.prefab
+- Assets/prefab/fieldmenu/battlemenu/battleTsuyoshiContorolBase.prefab
+- Assets/prefab/fieldmenu/battlemenu/battleCharacterBase.prefab
+- Assets/prefab/fieldmenu/battlemenu/BattleMenu.prefab
+- Assets/prefab/fieldmenu/battlemenu/DeadScreen.prefab
+- Assets/prefab/fieldmenu/battlemenu/RecoveryDamageBase.prefab
+- Assets/prefab/fieldmenu/battlemenu/battleEmoContorolBase.prefab
+- Assets/prefab/fieldmenu/battlemenu/battleSkillRow.prefab
+- Assets/prefab/fieldmenu/battlemenu/battleItemMenuRow.prefab
+- Assets/prefab/fieldmenu/battlemenu/AttackDamageBase.prefab
+Dependencies: []

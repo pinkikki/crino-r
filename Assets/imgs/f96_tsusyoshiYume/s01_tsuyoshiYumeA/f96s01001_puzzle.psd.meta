@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 16fe5f6f7f47552438b84ca70ec06b11
+timeCreated: 1434034608
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f96s01001_puzzle_A
+    21300002: f96s01001_puzzle_B
+    21300004: f96s01001_puzzle_C
+    21300006: f96s01001_puzzle_D
+    21300008: f96s01001_puzzle_E
+    21300010: f96s01001_puzzle_F
+    21300012: f96s01001_puzzle_G
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 128
+    textureFormat: -1
+    compressionQuality: 100
+  spriteSheet:
+    sprites:
+    - name: f96s01001_puzzle_A
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_B
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 201
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_C
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 214
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_D
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_E
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 134
+        width: 100
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_F
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f96s01001_puzzle_G
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 60
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: f96s01_tsuyoshiYumeA
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 4357cb98838c4384f8af33bbfae305af
+timeCreated: 1456325992
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: battle_menu_attack_icon
+    21300002: battle_menu_skill_icon
+    21300004: battle_menu_item_icon
+    21300006: battle_menu_defence_icon
+    21300008: battle_menu_escape_icon
+    21300010: battle_menu_icon_base
+    21300012: battle_menu_auto_stop_icon
+    21300014: battle_menu_auto_start_icon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: battle_menu_attack_icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -18, y: 26}
+        - {x: -18, y: -2}
+        - {x: -15, y: -5}
+        - {x: -12, y: -6}
+        - {x: -9, y: -6}
+        - {x: 2, y: -27}
+        - {x: 18, y: -27}
+        - {x: 18, y: 27}
+    - name: battle_menu_skill_icon
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 206
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 25}
+        - {x: -17, y: 23}
+        - {x: -17, y: -1}
+        - {x: 8, y: -25}
+        - {x: 17, y: -25}
+        - {x: 17, y: 5}
+        - {x: 15, y: 19}
+        - {x: 7, y: 25}
+    - name: battle_menu_item_icon
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 217
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 19.5}
+        - {x: -23, y: 19.5}
+        - {x: -23, y: -19.5}
+        - {x: 23, y: -19.5}
+        - {x: 23, y: 3.5}
+        - {x: 16, y: 11.5}
+    - name: battle_menu_defence_icon
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 206
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 25}
+        - {x: -21.5, y: -25}
+        - {x: 17.5, y: -25}
+        - {x: 21.5, y: -24}
+        - {x: 21.5, y: 18}
+        - {x: 12.5, y: 25}
+    - name: battle_menu_escape_icon
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 214
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 21}
+        - {x: -22, y: 16}
+        - {x: -22, y: -14}
+        - {x: -20, y: -21}
+        - {x: 12, y: -21}
+        - {x: 22, y: -13}
+        - {x: 22, y: 16}
+        - {x: 8, y: 21}
+    - name: battle_menu_icon_base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 40.5}
+        - {x: -40.5, y: 36.5}
+        - {x: -40.5, y: -40.5}
+        - {x: 26.5, y: -40.5}
+        - {x: 40.5, y: -34.5}
+        - {x: 40.5, y: 31.5}
+        - {x: 26.5, y: 40.5}
+    - name: battle_menu_auto_stop_icon
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 116
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 20}
+        - {x: -40, y: -20}
+        - {x: 40, y: -20}
+        - {x: 40, y: 20}
+    - name: battle_menu_auto_start_icon
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 66
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 20}
+        - {x: -40, y: -20}
+        - {x: 40, y: -20}
+        - {x: 40, y: 20}
+    outline: []
+  spritePackingTag: f99s05_battle
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

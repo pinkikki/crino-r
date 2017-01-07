@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 3f29e271f5615c643b32c6c01f3c13a0
+timeCreated: 1456656929
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f99s05009_battleEmo_0
+    21300002: f99s05009_battleEmo_1
+    21300004: f99s05009_battleEmo_2
+    21300006: f99s05009_battleEmo_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f99s05009_battleEmo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 224
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 46.75659}
+        - {x: -104, y: -27.243408}
+        - {x: -111, y: -119.24341}
+        - {x: -111, y: -131.24341}
+        - {x: 45, y: -131.24341}
+        - {x: 45, y: -37.24341}
+        - {x: 5, y: 46.75659}
+    - name: f99s05009_battleEmo_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 762
+        width: 224
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.2717133, y: 38.75659}
+        - {x: -2.7282867, y: 46.75659}
+        - {x: -61.728287, y: 46.75659}
+        - {x: -88.72829, y: 33.75659}
+        - {x: -107.72829, y: -115.24341}
+        - {x: -107.72829, y: -131.24341}
+        - {x: 42.271713, y: -131.24341}
+        - {x: 113.27171, y: -19.243408}
+        - {x: 113.27171, y: 8.756592}
+        - {x: 104.27171, y: 22.756592}
+    - name: f99s05009_battleEmo_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 762
+        width: 224
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.0434265, y: 35.75659}
+        - {x: -78.95657, y: 35.75659}
+        - {x: -105.95657, y: 29.756592}
+        - {x: -111.95657, y: -21.243408}
+        - {x: -111.95657, y: -131.24341}
+        - {x: 71.04343, y: -131.24341}
+        - {x: 71.04343, y: -127.24341}
+        - {x: 67.04343, y: -108.24341}
+    - name: f99s05009_battleEmo_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 762
+        width: 224
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.1848755, y: 43.75659}
+        - {x: -65.184875, y: 43.75659}
+        - {x: -90.184875, y: 19.756592}
+        - {x: -107.184875, y: -89.24341}
+        - {x: -107.184875, y: -131.24341}
+        - {x: 39.815125, y: -131.24341}
+        - {x: 53.815125, y: -44.24341}
+        - {x: 53.815125, y: -3.2434082}
+        - {x: 12.8151245, y: 39.75659}
+    outline: []
+  spritePackingTag: f99s05_battle_character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

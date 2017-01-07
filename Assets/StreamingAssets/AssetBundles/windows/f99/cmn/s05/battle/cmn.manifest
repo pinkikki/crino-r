@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3105730878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7533de8deed17a2e377c6e87978706ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f99_cmn/s05_battle/f99s05007_Attack.wav
+- Assets/audios/f99_cmn/s05_battle/f99s05006_battleFinish.wav
+- Assets/audios/f99_cmn/s05_battle/f99s05008_Recovery.wav
+- Assets/audios/f99_cmn/s05_battle/f99s05010_gameOver.wav
+- Assets/audios/f99_cmn/s05_battle/f99s05009_magicalChant.wav
+Dependencies: []

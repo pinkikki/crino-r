@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4022521579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 832260365db6067215be7b4d34441966
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f99_cmn/s06_field/f99s06001_fieldDungeon.wav
+Dependencies: []

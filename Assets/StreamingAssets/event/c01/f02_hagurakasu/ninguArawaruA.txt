@@ -1,0 +1,6 @@
+[0003]
+BEGIN
+action;001
+action;002
+action;003
+END

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3618938136
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 15eaa494a3047ae17d0f694283132da7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f99_cmn/s05_battle/f99s05004_battleMiddle.wav
+Dependencies: []

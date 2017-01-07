@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 0247e13f9098def46906637a42d3921e
+timeCreated: 1462714780
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f99s02002_emo_0
+    21300002: f99s02002_emo_1
+    21300004: f99s02002_emo_2
+    21300006: f99s02002_emo_3
+    21300008: f99s02002_emo_4
+    21300010: f99s02002_emo_5
+    21300012: f99s02002_emo_6
+    21300014: f99s02002_emo_7
+    21300016: f99s02002_emo_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 315
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f99s02002_emo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 164
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 76}
+        - {x: -41, y: 35}
+        - {x: -41, y: -71}
+        - {x: -40, y: -76}
+        - {x: 27, y: -76}
+        - {x: 41, y: -63}
+        - {x: 41, y: 44}
+        - {x: 10, y: 76}
+      - - {x: 26, y: -72}
+        - {x: 29, y: -76}
+        - {x: 32, y: -75}
+        - {x: 32, y: -72}
+        - {x: 29, y: -68}
+        - {x: 26, y: -69}
+    - name: f99s02002_emo_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 720
+        width: 164
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -10}
+        - {x: 36, y: 35}
+        - {x: 11, y: 76}
+        - {x: -21, y: 76}
+        - {x: -36, y: 36}
+        - {x: -41, y: 19}
+        - {x: -41, y: -76}
+        - {x: 37, y: -76}
+        - {x: 38, y: -70}
+        - {x: 41, y: -57}
+        - {x: 41, y: -19}
+    - name: f99s02002_emo_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 720
+        width: 164
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 76}
+        - {x: -41, y: 50}
+        - {x: -41, y: -69}
+        - {x: -39, y: -76}
+        - {x: 35, y: -76}
+        - {x: 41, y: -74}
+        - {x: 41, y: 55}
+        - {x: 19, y: 76}
+      - - {x: -32, y: -74}
+        - {x: -30, y: -76}
+        - {x: -27, y: -75}
+        - {x: -27, y: -71}
+        - {x: -29, y: -69}
+        - {x: -32, y: -70}
+    - name: f99s02002_emo_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 196
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 75}
+        - {x: -49, y: -75}
+        - {x: 40, y: -75}
+        - {x: 49, y: -73}
+        - {x: 49, y: -23}
+        - {x: 16, y: 75}
+    - name: f99s02002_emo_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 380
+        width: 196
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 75}
+        - {x: -49, y: 46}
+        - {x: -49, y: -26}
+        - {x: -47, y: -42}
+        - {x: -41, y: -75}
+        - {x: 12, y: -75}
+        - {x: 49, y: -69}
+        - {x: 49, y: -53}
+        - {x: 23, y: 75}
+    - name: f99s02002_emo_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 380
+        width: 196
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 75}
+        - {x: -21, y: 75}
+        - {x: -49, y: 46}
+        - {x: -49, y: -66}
+        - {x: -26, y: -75}
+        - {x: 8, y: -75}
+        - {x: 49, y: -61}
+        - {x: 49, y: -8}
+    - name: f99s02002_emo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 160
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 76}
+        - {x: -39, y: 61}
+        - {x: -39, y: -72}
+        - {x: -38, y: -76}
+        - {x: 33, y: -76}
+        - {x: 40, y: -59}
+        - {x: 40, y: 49}
+        - {x: 34, y: 76}
+    - name: f99s02002_emo_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 36
+        width: 160
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 76}
+        - {x: -40, y: 31}
+        - {x: -40, y: -71}
+        - {x: -35, y: -76}
+        - {x: 39, y: -76}
+        - {x: 40, y: -73}
+        - {x: 40, y: 38}
+        - {x: 35, y: 76}
+    - name: f99s02002_emo_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 36
+        width: 160
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 76}
+        - {x: -40, y: 34}
+        - {x: -40, y: -76}
+        - {x: 29, y: -76}
+        - {x: 40, y: -56}
+        - {x: 40, y: -3}
+        - {x: 30, y: 76}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

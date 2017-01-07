@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 481385745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94f30ef815b95fb0b57ee87890b44974
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 72d7e2af041230b1a5a143019175a3c5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/tree_nomal.prefab
+Dependencies: []

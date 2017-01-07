@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 987841932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22b879c50d471bbc1bb9aedf19b481e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 47e4e0799ff7a4f0165dc017c861bcca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/kasi_auto.prefab
+Dependencies: []

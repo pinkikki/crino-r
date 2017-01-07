@@ -1,0 +1,93 @@
+ManifestFileVersion: 0
+CRC: 2518911376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6ffb612219a156ccb69c89c0e44f8df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 34b72ff2e1d6ddcd510e7906aae6b62a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdb43895aafcd0f41afc0870e6f510e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cafbce7e44c2314c8981f7af0f5320c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf0b0c68ae34feb42b05d67c7eed301f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faeae999ffa22ab42962e38ab37b3686, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78aaa05a7701ff049a98dc913774b89b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab/fieldmenu/TsuyoshiIconBase.prefab
+- Assets/prefab/fieldmenu/tsuyoshiIcon.prefab
+- Assets/prefab/fieldmenu/shoesIcon.prefab
+- Assets/prefab/fieldmenu/statusParalysisIcon.prefab
+- Assets/prefab/fieldmenu/tsuyoshiFaceIcon.prefab
+- Assets/prefab/fieldmenu/FieldMenu.prefab
+- Assets/prefab/fieldmenu/tsuyoshiNameBar.prefab
+- Assets/prefab/fieldmenu/itemMenuRow.prefab
+- Assets/prefab/fieldmenu/characterBase.prefab
+- Assets/prefab/fieldmenu/statusDeadIcon.prefab
+- Assets/prefab/fieldmenu/emoFaceIcon.prefab
+- Assets/prefab/fieldmenu/statusPoisonIcon.prefab
+- Assets/prefab/fieldmenu/statusConfusionIcon.prefab
+- Assets/prefab/fieldmenu/fopperyIcon.prefab
+- Assets/prefab/fieldmenu/skillMenuSkillRow.prefab
+- Assets/prefab/fieldmenu/weaponIcon.prefab
+- Assets/prefab/fieldmenu/waterBottle1.prefab
+- Assets/prefab/fieldmenu/statusMenuSkillRow.prefab
+- Assets/prefab/fieldmenu/skillMenuMagicRow.prefab
+- Assets/prefab/fieldmenu/clothesIcon.prefab
+- Assets/prefab/fieldmenu/hatIcon.prefab
+- Assets/prefab/fieldmenu/eqipmentMenuRow.prefab
+Dependencies: []

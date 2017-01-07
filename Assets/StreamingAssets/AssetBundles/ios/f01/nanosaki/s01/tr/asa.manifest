@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3703209504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fec2b44bab2d88ba3730268942313e3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f01_nanosaki/s01_tsuyoshiRoom/f01s01002_doorKnock.wav
+- Assets/audios/f01_nanosaki/s01_tsuyoshiRoom/f01s01001_birdMorning.wav
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1288598315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ac993bf1059095e4ee0bde35aba8fdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f01_nanosaki/s99_cmn/f01s99001_nanosakiA.wav
+Dependencies: []

@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: a6f546cd18331fd4d9e1b2828c1fbf68
+timeCreated: 1456752281
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "f99s05008_sketchEffec\uFF54_add_plugin_0"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 128
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 128
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 128
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: "f99s05008_sketchEffec\uFF54_add_plugin_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 128
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20.5}
+        - {x: -16, y: 23.5}
+        - {x: -62, y: 23.5}
+        - {x: -64, y: 21.5}
+        - {x: -64, y: -7.5}
+        - {x: -62, y: -13.5}
+        - {x: 9, y: -23.5}
+        - {x: 64, y: -23.5}
+        - {x: 64, y: -5.5}
+        - {x: 43, y: 7.5}
+    outline: []
+  spritePackingTag: f99s05_battle
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1107887729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53fbfea0435c526cfde73d8d8b8b2a24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f96_tsuyoshiYume/s99_cmn/f96s99001_tsuyoshiYumeA.wav
+- Assets/audios/f96_tsuyoshiYume/s01_tsuyoshiYumeA/f96s01002_puzzleFly.wav
+- Assets/audios/f96_tsuyoshiYume/s01_tsuyoshiYumeA/f96s01001_akumaWarai.wav
+Dependencies: []

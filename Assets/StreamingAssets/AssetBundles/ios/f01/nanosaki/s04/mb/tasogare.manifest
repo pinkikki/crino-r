@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 369907192
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: feed702b4e02c8fde55ff2a367d177d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f01_nanosaki/s04_mountainBehind/f01s04003_anaFall.wav
+Dependencies: []

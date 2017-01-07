@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3534825076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a7a071e56d55a77f7bdc25c3f2ee729
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f01_nanosaki/s02_nanosakiAppearance/f01s02001_schoolChime.wav
+Dependencies: []

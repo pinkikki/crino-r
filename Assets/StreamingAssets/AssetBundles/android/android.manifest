@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/students
+      Dependencies: {}
+    Info_1:
+      Name: prefab/tasogarenosora
+      Dependencies: {}
+    Info_2:
+      Name: prefab/tsuyoshi_manual
+      Dependencies: {}
+    Info_3:
+      Name: prefab/controller
+      Dependencies: {}
+    Info_4:
+      Name: test/tree_thin
+      Dependencies: {}
+    Info_5:
+      Name: test/tree_normal
+      Dependencies: {}
+    Info_6:
+      Name: prefab/msgdialog
+      Dependencies: {}
+    Info_7:
+      Name: prefab/tsuyoshi_auto
+      Dependencies: {}
+    Info_8:
+      Name: f01/nanosaki/s04/mb/tasogare
+      Dependencies: {}
+    Info_9:
+      Name: f96/tsuyoshiyume
+      Dependencies: {}
+    Info_10:
+      Name: f01/nanosaki/s01/tr/asa
+      Dependencies: {}
+    Info_11:
+      Name: test/sample1
+      Dependencies: {}
+    Info_12:
+      Name: f01/nanosaki/s02/na/tsugakuro
+      Dependencies: {}
+    Info_13:
+      Name: f01/nanosaki/s99/cmn/standard
+      Dependencies: {}
+    Info_14:
+      Name: f01/nanosaki/s04/mb/shaseitaikai
+      Dependencies: {}
+    Info_15:
+      Name: prefab/fieldmenu
+      Dependencies: {}
+    Info_16:
+      Name: prefab/battlemenu
+      Dependencies: {}
+    Info_17:
+      Name: f99/cmn/s05/battle/normal
+      Dependencies: {}
+    Info_18:
+      Name: f99/cmn/s05/battle/cmn
+      Dependencies: {}
+    Info_19:
+      Name: prefab/enemy/001
+      Dependencies: {}
+    Info_20:
+      Name: prefab/msgdialognotitle
+      Dependencies: {}
+    Info_21:
+      Name: f99/cmn/s05/battle/gameover
+      Dependencies: {}
+    Info_22:
+      Name: prefab/particle/cmn
+      Dependencies: {}
+    Info_23:
+      Name: prefab/particle/emo
+      Dependencies: {}
+    Info_24:
+      Name: prefab/ronno_auto
+      Dependencies: {}
+    Info_25:
+      Name: prefab/ningu_auto
+      Dependencies: {}
+    Info_26:
+      Name: f99/cmn/s06/field/dungeon
+      Dependencies: {}
+    Info_27:
+      Name: prefab/kasi_auto
+      Dependencies: {}
+    Info_28:
+      Name: prefab/emo_auto
+      Dependencies: {}
+    Info_29:
+      Name: prefab/namedialog
+      Dependencies: {}
+    Info_30:
+      Name: f99/cmn/s05/battle/middle
+      Dependencies: {}
+    Info_31:
+      Name: prefab/enemy/kasi
+      Dependencies: {}

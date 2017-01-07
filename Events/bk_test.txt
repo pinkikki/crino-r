@@ -1,0 +1,13 @@
+[CR_MGR_01_A]
+BEGIN
+bgm;start;nanosaki
+se;start;nanosaki_se
+sleep;5000;
+msg;${tys};今日はいい天気だね？
+msg;${hkr};そうだね。どっか行こうか。
+msg;del
+END
+[CR_MGR_01_B]
+BEGIN
+event;delete;CR_MGR_01_A
+END

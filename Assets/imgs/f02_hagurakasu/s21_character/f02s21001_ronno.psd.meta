@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 77429284654526747aae357dbc53b7c4
+timeCreated: 1462372574
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f02s21001_ronno_0
+    21300002: f02s21001_ronno_1
+    21300004: f02s21001_ronno_2
+    21300006: f02s21001_ronno_3
+    21300008: f02s21001_ronno_4
+    21300010: f02s21001_ronno_5
+    21300012: f02s21001_ronno_6
+    21300014: f02s21001_ronno_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 355
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f02s21001_ronno_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 187
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 98.5}
+        - {x: -21.5, y: 98.5}
+        - {x: -36.5, y: 68.5}
+        - {x: -46.5, y: 20.5}
+        - {x: -46.5, y: -98.5}
+        - {x: 46.5, y: -98.5}
+        - {x: 47.5, y: -95.5}
+        - {x: 47.5, y: 35.5}
+        - {x: 39.5, y: 90.5}
+    - name: f02s21001_ronno_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 622
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 98.5}
+        - {x: -53.5, y: 72.5}
+        - {x: -53.5, y: -92.5}
+        - {x: -46.5, y: -98.5}
+        - {x: 13.5, y: -98.5}
+        - {x: 58.5, y: -88.5}
+        - {x: 61.5, y: -84.5}
+        - {x: 61.5, y: -11.5}
+        - {x: 18.5, y: 98.5}
+    - name: f02s21001_ronno_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 622
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: -67.5}
+        - {x: -42.5, y: -98.5}
+        - {x: 32.5, y: -98.5}
+        - {x: 61.5, y: -81.5}
+        - {x: 61.5, y: -11.5}
+        - {x: 38.5, y: 74.5}
+        - {x: 8.5, y: 97.5}
+        - {x: -28.5, y: 97.5}
+        - {x: -61.5, y: 47.5}
+      - - {x: -49.5, y: -59.5}
+        - {x: -48.5, y: -62.5}
+        - {x: -45.5, y: -62.5}
+        - {x: -43.5, y: -60.5}
+        - {x: -44.5, y: -57.5}
+        - {x: -47.5, y: -57.5}
+    - name: f02s21001_ronno_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 622
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 87.5}
+        - {x: 5.5, y: 97.5}
+        - {x: -47.5, y: 97.5}
+        - {x: -61.5, y: 45.5}
+        - {x: -61.5, y: -80.5}
+        - {x: -39.5, y: -98.5}
+        - {x: 18.5, y: -98.5}
+        - {x: 61.5, y: -78.5}
+        - {x: 61.5, y: -49.5}
+        - {x: 58.5, y: -44.5}
+        - {x: 46.5, y: -47.5}
+        - {x: 50.5, y: -32.5}
+    - name: f02s21001_ronno_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 187
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 98.5}
+        - {x: -29.5, y: 98.5}
+        - {x: -46.5, y: 36.5}
+        - {x: -46.5, y: -98.5}
+        - {x: 46.5, y: -98.5}
+        - {x: 47.5, y: -94.5}
+        - {x: 47.5, y: 7.5}
+    - name: f02s21001_ronno_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 218
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: -61.5}
+        - {x: 51.5, y: 98.5}
+        - {x: -18.5, y: 98.5}
+        - {x: -44.5, y: 56.5}
+        - {x: -61.5, y: -12.5}
+        - {x: -61.5, y: -90.5}
+        - {x: -46.5, y: -98.5}
+        - {x: 36.5, y: -98.5}
+        - {x: 36.5, y: -89.5}
+        - {x: 27.5, y: -83.5}
+        - {x: 20.5, y: -84.5}
+    - name: f02s21001_ronno_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 218
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 98.5}
+        - {x: -61.5, y: -25.5}
+        - {x: -61.5, y: -75.5}
+        - {x: -27.5, y: -98.5}
+        - {x: 27.5, y: -98.5}
+        - {x: 59.5, y: -81.5}
+        - {x: 59.5, y: 98.5}
+    - name: f02s21001_ronno_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 218
+        width: 246
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.5, y: -63.5}
+        - {x: 61.5, y: 74.5}
+        - {x: 17.5, y: 98.5}
+        - {x: -12.5, y: 98.5}
+        - {x: -31.5, y: 72.5}
+        - {x: -61.5, y: -41.5}
+        - {x: -61.5, y: -70.5}
+        - {x: -23.5, y: -98.5}
+        - {x: 29.5, y: -98.5}
+        - {x: 43.5, y: -93.5}
+        - {x: 57.5, y: -72.5}
+        - {x: 55.5, y: -65.5}
+        - {x: 52.5, y: -65.5}
+    outline: []
+  spritePackingTag: f02s21_character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

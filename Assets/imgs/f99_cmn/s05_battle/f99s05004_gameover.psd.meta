@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 2d1cc259e4f3e694d920bed6183a2c63
+timeCreated: 1453621994
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f99s05004_gameover_0
+    21300002: f99s05004_gameover_1
+    21300004: f99s05004_gameover_2
+    21300006: f99s05004_gameover_3
+    21300008: f99s05004_gameover_4
+    21300010: f99s05004_gameover_5
+    21300012: f99s05004_gameover_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 256
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 256
+    textureFormat: -1
+    compressionQuality: 100
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: f99s05004_gameover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 205
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 206
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 206
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 136
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s05004_gameover_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 135
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: f99s05_battle_gameover
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

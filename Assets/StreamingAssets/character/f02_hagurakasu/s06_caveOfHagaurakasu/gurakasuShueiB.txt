@@ -1,0 +1,4 @@
+prefab/tsuyoshi_auto;tsuyoshi_auto;tsuyoshi_auto;16.5;-1.0;0;3
+prefab/emo_auto;emo_auto;emo_auto;17.0;-0.5;0;3
+prefab/ningu_auto;ningu_auto;ningu_auto;17.5;0.0;0;3
+prefab/ronno_auto;ronno_auto;ronno_auto;22.75;-0.5;0;2

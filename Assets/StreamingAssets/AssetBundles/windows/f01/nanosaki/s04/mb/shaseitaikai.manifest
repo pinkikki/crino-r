@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4121001596
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b168da014bbcb97beec95d655400897
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f01_nanosaki/s04_mountainBehind/f01s04002_taishoKick.wav
+- Assets/audios/f01_nanosaki/s04_mountainBehind/f01s04001_kuriFall.wav
+Dependencies: []

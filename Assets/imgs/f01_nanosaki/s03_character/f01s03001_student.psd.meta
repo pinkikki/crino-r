@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: e5341345d0a4d1e48a0472d4ab88e5cf
+timeCreated: 1442123852
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f01s03001_student1_face_front
+    21300002: f01s03001_student1_face_back
+    21300004: f01s03001_student1_face_right
+    21300006: f01s03001_student1_face_left
+    21300008: f01s03001_student2_face_front
+    21300010: f01s03001_student2_face_back
+    21300012: f01s03001_student2_face_right
+    21300014: f01s03001_student2_face_left
+    21300016: f01s03001_student4_face_front
+    21300018: f01s03001_student4_face_right
+    21300020: f01s03001_student4_face_left
+    21300022: f01s03001_student3_face_front
+    21300024: f01s03001_student3_face_back
+    21300026: f01s03001_student3_face_right
+    21300028: f01s03001_student3_face_left
+    21300030: f01s03001_student5_face_back
+    21300032: f01s03001_student6_face_back
+    21300034: f01s03001_teacher_face
+    21300036: f01s03001_teacher_body
+    21300038: f01s03001_student_body_front_wait
+    21300040: f01s03001_student_body_front_right
+    21300042: f01s03001_student_body_front_left
+    21300044: f01s03001_student_body_back_wait
+    21300046: f01s03001_student_body_back_left
+    21300048: f01s03001_student_body_back_right
+    21300050: f01s03001_student_body_left_wait
+    21300052: f01s03001_student_body_left_right
+    21300054: f01s03001_student_body_left_left
+    21300056: f01s03001_student_body_right_right
+    21300058: f01s03001_student_body_right_left
+    21300060: f01s03001_student_body_right_wait
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f01s03001_student1_face_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1823
+        width: 178
+        height: 222
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student1_face_back
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1850
+        width: 178
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student1_face_right
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1837
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student1_face_left
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1837
+        width: 189
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student2_face_front
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1829
+        width: 172
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student2_face_back
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1852
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student2_face_right
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1840
+        width: 178
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student2_face_left
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1840
+        width: 178
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student4_face_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1529
+        width: 172
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student4_face_right
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1540
+        width: 178
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student4_face_left
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1540
+        width: 178
+        height: 208
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student3_face_front
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1527
+        width: 196
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student3_face_back
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1560
+        width: 196
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student3_face_right
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1537
+        width: 190
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student3_face_left
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1537
+        width: 190
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student5_face_back
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1512
+        width: 173
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student6_face_back
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1518
+        width: 172
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_teacher_face
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1822
+        width: 210
+        height: 226
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_teacher_body
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1746
+        width: 134
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_front_wait
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 134
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_front_right
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1141
+        width: 124
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_front_left
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1141
+        width: 124
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_back_wait
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1141
+        width: 137
+        height: 307
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_back_left
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1134
+        width: 124
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_back_right
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1134
+        width: 124
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_left_wait
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1145
+        width: 90
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_left_right
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1145
+        width: 216
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_left_left
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1142
+        width: 212
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_right_right
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1142
+        width: 212
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_right_left
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1145
+        width: 216
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student_body_right_wait
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1145
+        width: 90
+        height: 303
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: f01s03_character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

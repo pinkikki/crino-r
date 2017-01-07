@@ -1,0 +1,14 @@
+[0002]
+BEGIN
+msg;???;ん…？
+msg;???;…？
+msg;del
+action;001
+msg;???;う…！;うひゃーっ！！！！！
+msg;del
+action;002
+msg;${tys};あ…
+msg;${tys};…
+msg;del
+action;003
+END

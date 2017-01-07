@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 3f5d78d831c513b47af945bb493690a0
+timeCreated: 1444922487
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f99s02001_tsuyoshi_0
+    21300002: f99s02001_tsuyoshi_1
+    21300004: f99s02001_tsuyoshi_2
+    21300006: f99s02001_tsuyoshi_3
+    21300008: f99s02001_tsuyoshi_4
+    21300010: f99s02001_tsuyoshi_5
+    21300012: f99s02001_tsuyoshi_6
+    21300014: f99s02001_tsuyoshi_7
+    21300016: f99s02001_tsuyoshi_8
+    21300018: f99s02001_tsuyoshi_9
+    21300020: f99s02001_tsuyoshi_10
+    21300022: f99s02001_tsuyoshi_11
+    21300024: f99s02001_tsuyoshi_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f99s02001_tsuyoshi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1547
+        width: 230
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1544
+        width: 230
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1541
+        width: 230
+        height: 507
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1547
+        width: 172
+        height: 501
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_4
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1545
+        width: 175
+        height: 503
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1544
+        width: 175
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 230
+        height: 502
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 941
+        width: 230
+        height: 507
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 944
+        width: 230
+        height: 504
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 940
+        width: 172
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 940
+        width: 172
+        height: 508
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 952
+        width: 172
+        height: 496
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f99s02001_tsuyoshi_12
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1817
+        width: 175
+        height: 231
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: f99s02_character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

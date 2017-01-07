@@ -1,0 +1,2 @@
+prefab/tsuyoshi_manual;tsuyoshi_manual;tsuyoshi_manual;-3.26;-7.74;0;1
+prefab/ronno_auto;ronno_auto;ronno_auto;22.75;1.55;0;0

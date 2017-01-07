@@ -1,0 +1,11 @@
+prefab/tsuyoshi_auto;tsuyoshi_auto;tsuyoshi_auto;-0.03;5.6;0;1
+prefab/students;student1;friend;-0.1;4.84;0;1
+prefab/students;student2;studentA;0.5;4.3;0;1
+prefab/students;student2;studentB;1.4;4.77;0;1
+prefab/students;student2;studentC;-0.38;3.33;0;1
+prefab/students;student3;boss;0.6;6.2;0;1
+prefab/students;student4;henchman;-0.7;6.17;0;1
+prefab/students;student5;studentD;-1.9;5;0;1
+prefab/students;student6;studentE;-1.49;6.25;0;1
+prefab/students;student6;studentF;-1;4.8;0;1
+prefab/students;teacher;teacher;0;7.6;0;4

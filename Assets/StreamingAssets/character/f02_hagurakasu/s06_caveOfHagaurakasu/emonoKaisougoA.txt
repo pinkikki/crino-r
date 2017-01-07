@@ -1,0 +1,3 @@
+prefab/tsuyoshi_auto;tsuyoshi_auto;tsuyoshi_auto;-16.5;10.7;0;3
+prefab/emo_auto;emo_auto;emo_auto;-13.5;10.7;0;3
+prefab/ningu_auto;ningu_auto;ningu_auto;-14.0;11.7;0;3

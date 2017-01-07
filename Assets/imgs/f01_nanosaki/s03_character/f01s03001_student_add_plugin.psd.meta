@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: e4766e60828bb744385dfebdb77f928c
+timeCreated: 1442147128
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: f01s03001_student5_face_front
+    21300002: f01s03001_student5_face_right
+    21300004: f01s03001_student5_face_left
+    21300006: f01s03001_student6_face_front
+    21300008: f01s03001_student6_face_right
+    21300010: f01s03001_student6_face_left
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: f01s03001_student5_face_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 173
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student5_face_right
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 790
+        width: 180
+        height: 234
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student5_face_left
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 788
+        width: 173
+        height: 236
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student6_face_front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 172
+        height: 219
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student6_face_right
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 489
+        width: 202
+        height: 235
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: f01s03001_student6_face_left
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 494
+        width: 202
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: f01s03_character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

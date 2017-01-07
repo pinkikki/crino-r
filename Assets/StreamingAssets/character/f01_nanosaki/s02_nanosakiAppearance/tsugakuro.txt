@@ -1,0 +1,2 @@
+prefab/tsuyoshi_auto;tsuyoshi_auto;tsuyoshi_auto;17.5;0;0;1
+prefab/students;student1;friend;18.1;-3;0;0

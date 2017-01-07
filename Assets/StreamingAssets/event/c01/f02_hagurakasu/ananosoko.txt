@@ -1,0 +1,16 @@
+[0001]
+BEGIN
+sleep;2.0
+msg;${tys};うう…
+msg;${tys};…ーん…
+msg;del
+sleep;1.0
+action;001
+msg;${tys};…
+msg;${tys};ここ…
+msg;${tys};どこだ…？
+msg;del
+sleep;1.0
+action;002
+action;003
+END

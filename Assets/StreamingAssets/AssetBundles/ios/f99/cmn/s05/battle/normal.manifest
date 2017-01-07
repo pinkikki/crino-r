@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3443269220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0f5d7a7a4aad6cc45cc07b547fd5e7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/audios/f99_cmn/s05_battle/f99s05002_battleNormal.wav
+Dependencies: []
